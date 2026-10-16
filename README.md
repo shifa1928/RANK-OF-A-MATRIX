@@ -11,6 +11,7 @@ To write a python program to find the rank of a matrix
 ### Step 4: End the program
 ## Program:
 <img width="782" height="406" alt="{1ABF06FB-EE82-4524-9E40-E4051982D45F}" src="https://github.com/user-attachments/assets/3ddded2a-6da9-4524-961e-419098c4334c" />
+
 ## Output:
 <img width="308" height="220" alt="{E35788E9-1537-40E0-8AE6-1B4277FA714B}" src="https://github.com/user-attachments/assets/4dde349d-9751-4704-8641-94b61fa86912" />
 
